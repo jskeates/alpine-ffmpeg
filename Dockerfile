@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.7
 MAINTAINER Jake Skeates <jskeates@me.com>
 
 RUN apk upgrade -U \
